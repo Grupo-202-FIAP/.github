@@ -34,7 +34,8 @@ Este espaço reúne os projetos desenvolvidos no âmbito do **Tech Challenge**, 
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/lokoabners" width="100" style="border-radius: 50%;" /><br/>
-      <sub><b>lokoabners</b></sub>
+      <sub><b>Erick Abner de Lourdes</b></sub><br/>
+      <sub>lokoabners</sub>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/MarceloACJunior" width="100" style="border-radius: 50%;" /><br/>
